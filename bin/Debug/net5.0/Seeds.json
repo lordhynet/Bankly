@@ -1,0 +1,246 @@
+﻿[
+
+  {
+    "UserId": "1",
+    "FirstName": "mike",
+    "LastName": "joe",
+    "email": "richardsonmullen@zidant.com",
+
+    "PhoneNumber": "09087687453",
+
+    "Accounts": [
+      {
+        "Id": "1",
+        "UserId": "2",
+        "AccountNo": "7647589087",
+        "AccountName": "Mike Joe",
+        "AccountType": "Current",
+        "AccountBalance": "987654"
+      }
+    ],
+
+    "UserTransactions": [
+      {
+
+        "Id": 1,
+
+        "Reference": "proper",
+
+        "TransactionType": "credit",
+
+        "Description": "credit successful",
+
+        "Narration": "Narration",
+
+        "Amount": 5000.0,
+
+        "DebitAccountNo": "0109867546",
+
+        "CreditAccountNo": "0109867546",
+
+        "TransactionDate": "2013-10-21T13:28:06.419Z",
+
+        "TransactionBy": "John Doe",
+
+        "DebitAccountUserId": "DebitAccountUserId",
+
+        "CreditAccountUserId": "CreditAccountUserId",
+
+        "SenderName": "SenderName",
+
+        "ReceiverName": "ReceiveName"
+
+
+      },
+
+      {
+        "Id": 2,
+
+        "Reference": "proper",
+
+        "TransactionType": "credit",
+
+        "Description": "credit successful",
+
+        "Narration": "Narration",
+
+        "Amount": 5000.0,
+
+        "DebitAccountNo": "0109867546",
+
+        "CreditAccountNo": "0109867546",
+
+        "TransactionDate": "2013-10-21T13:28:06.419Z",
+
+        "TransactionBy": "John Doe",
+
+        "DebitAccountUserId": "DebitAccountUserId",
+
+        "CreditAccountUserId": "CreditAccountUserId",
+
+        "SenderName": "SenderName",
+
+        "ReceiverName": "ReceiveName"
+
+
+      }
+    ]
+
+  },
+
+
+
+  {
+
+    "UserId": "",
+
+    "email": "richardsonmullen@zidant.com",
+
+    "PhoneNumber": "09087687453",
+
+    "AccountNo": "0109867546",
+    "Accounts": [
+      {
+        "Id": "2",
+        "UserId": "2",
+        "AccountNo": "7647589087",
+        "AccountName": "Mike Joe",
+        "AccountType": "Current",
+        "AccountBalance": "987654"
+      }
+    ],
+
+      "UserTransactions": [
+        {
+
+          "Id": 3,
+
+          "Reference": "proper",
+
+          "TransactionType": "credit",
+
+          "Description": "credit successful",
+
+          "Narration": "Narration",
+
+          "Amount": 5000.0,
+
+          "DebitAccountNo": "0109867546",
+
+          "CreditAccountNo": "0109867546",
+
+          "TransactionDate": "2013-10-21T13:28:06.419Z",
+
+          "TransactionBy": "John Doe",
+
+          "DebitAccountUserId": "DebitAccountUserId",
+
+          "CreditAccountUserId": "CreditAccountUserId",
+
+          "SenderName": "SenderName",
+
+          "ReceiverName": "ReceiveName"
+
+
+        },
+
+        {
+          "Id": 4,
+
+          "Reference": "proper",
+
+          "TransactionType": "credit",
+
+          "Description": "credit successful",
+
+          "Narration": "Narration",
+
+          "Amount": 5000.0,
+
+          "DebitAccountNo": "0109867546",
+
+          "CreditAccountNo": "0109867546",
+
+          "TransactionDate": "2013-10-21T13:28:06.419Z",
+
+          "TransactionBy": "John Doe",
+
+          "DebitAccountUserId": "DebitAccountUserId",
+
+          "CreditAccountUserId": "CreditAccountUserId",
+
+          "SenderName": "SenderName",
+
+          "ReceiverName": "ReceiveName"
+
+
+        }
+      ]
+  },
+
+
+  {
+
+    "UserId": "1",
+    "FirstName": "mike",
+    "LastName": "joe",
+    "email": "richardsonmullen@zidant.com",
+
+    "PhoneNumber": "09087687453",
+
+    "Accounts": [
+      {
+        "Id": "3",
+        "UserId": "2",
+        "AccountNo": "7647589087",
+        "AccountName": "Mike Joe",
+        "AccountType": "Current",
+        "AccountBalance": "987654"
+      }
+    ],
+
+
+    "UserTransactions": [
+      {
+
+        "Id": 5,
+
+        "Reference": "proper",
+
+        "TransactionType": "credit",
+
+        "Description": "credit successful",
+
+        "Narration": "Narration",
+
+        "Amount": 5000.0,
+
+        "DebitAccountNo": "0109867546",
+
+        "CreditAccountNo": "0109867546",
+
+        "TransactionDate": "2013-10-21T13:28:06.419Z",
+
+        "TransactionBy": "John Doe",
+
+        "DebitAccountUserId": "DebitAccountUserId",
+
+        "CreditAccountUserId": "CreditAccountUserId",
+
+        "SenderName": "SenderName",
+
+        "ReceiverName": "ReceiveName"
+
+
+      }
+    ]
+
+  }
+
+
+]
+  
+ 
+  
+    
+  

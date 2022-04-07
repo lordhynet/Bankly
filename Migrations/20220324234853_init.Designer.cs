@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BANKLYFINANCIALAPP.Migrations
 {
     [DbContext(typeof(BanklyContext))]
-    [Migration("20220406225434_initial")]
-    partial class initial
+    [Migration("20220324234853_init")]
+    partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

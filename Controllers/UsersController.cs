@@ -7,11 +7,11 @@ namespace BANKLYFINANCIALAPP.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class AccountsController : ControllerBase
+    public class UsersController : ControllerBase
     {
 
         private readonly IUserService _userService;
-        public AccountsController(IUserService userService)
+        public UsersController(IUserService userService)
         {
 
             _userService = userService;

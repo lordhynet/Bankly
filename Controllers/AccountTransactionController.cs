@@ -8,14 +8,18 @@ namespace BANKLYFINANCIALAPP.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UserTransactionController : ControllerBase
+    public class AccountTransactionController : ControllerBase
     {
         private readonly IUserTransactionService _transService;
-        public UserTransactionController(IUserTransactionService transService)
+        public AccountTransactionController(IUserTransactionService transService)
         {
             _transService = transService;
         }
 
+        /// <summary>
+        /// Get user by id
+        /// </summary>
+        /// <returns></returns>
         [HttpGet("user-transactions/{userId}")]
         public async Task<IActionResult> GetAllUserTransaction(string userId)
             => Ok(await _transService.GetTransactionsByUserID(userId));

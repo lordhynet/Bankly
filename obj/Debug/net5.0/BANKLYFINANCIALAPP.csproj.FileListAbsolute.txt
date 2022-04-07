@@ -12,7 +12,6 @@ C:\Users\hp\source\repos\BANKLYFINANCIALAPP\bin\Debug\net5.0\BANKLYFINANCIALAPP.
 C:\Users\hp\source\repos\BANKLYFINANCIALAPP\bin\Debug\net5.0\BANKLYFINANCIALAPP.runtimeconfig.json
 C:\Users\hp\source\repos\BANKLYFINANCIALAPP\bin\Debug\net5.0\BANKLYFINANCIALAPP.runtimeconfig.dev.json
 C:\Users\hp\source\repos\BANKLYFINANCIALAPP\bin\Debug\net5.0\BANKLYFINANCIALAPP.dll
-C:\Users\hp\source\repos\BANKLYFINANCIALAPP\bin\Debug\net5.0\ref\BANKLYFINANCIALAPP.dll
 C:\Users\hp\source\repos\BANKLYFINANCIALAPP\bin\Debug\net5.0\BANKLYFINANCIALAPP.pdb
 C:\Users\hp\source\repos\BANKLYFINANCIALAPP\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\hp\source\repos\BANKLYFINANCIALAPP\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
@@ -77,3 +76,4 @@ C:\Users\hp\source\repos\BANKLYFINANCIALAPP\obj\Debug\net5.0\ref\BANKLYFINANCIAL
 C:\Users\hp\source\repos\BANKLYFINANCIALAPP\obj\Debug\net5.0\BANKLYFINANCIALAPP.pdb
 C:\Users\hp\source\repos\BANKLYFINANCIALAPP\obj\Debug\net5.0\BANKLYFINANCIALAPP.genruntimeconfig.cache
 C:\Users\hp\source\repos\BANKLYFINANCIALAPP\bin\Debug\net5.0\Seeds.json
+C:\Users\hp\source\repos\BANKLYFINANCIALAPP\obj\Debug\net5.0\refint\BANKLYFINANCIALAPP.dll
